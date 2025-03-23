@@ -132,4 +132,8 @@ This project is open-sourced under the MIT license. See [LICENSE](LICENSE) file 
 
 ## 🙏 Acknowledgements
 
-Thanks to all developers who have contributed to ESP32-CAM development, especially [easytarget](https://github.com/easytarget) for providing the excellent base code. 
+Thanks to all developers who have contributed to ESP32-CAM development, especially [easytarget](https://github.com/easytarget) for providing the excellent base code.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XCQ0607/esp32-cam-webserver-HAN&type=Date)](https://www.star-history.com/#XCQ0607/esp32-cam-webserver-HAN&Date) 

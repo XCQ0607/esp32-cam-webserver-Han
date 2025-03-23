@@ -124,7 +124,7 @@
 
 - 原始项目: [easytarget/esp32-cam-webserver](https://github.com/easytarget/esp32-cam-webserver)
 - Android客户端: [XCQ0607/WebCam](https://github.com/XCQ0607/WebCam)
-- 英文固件: [XCQ0607/esp32-cam-webserver-HAN](https://github.com/XCQ0607/esp32-cam-webserver-HAN)
+- 中文固件: [XCQ0607/esp32-cam-webserver-HAN](https://github.com/XCQ0607/esp32-cam-webserver-HAN)
 
 ## 📄 许可证
 
@@ -133,3 +133,7 @@
 ## 🙏 致谢
 
 感谢所有为ESP32-CAM开发做出贡献的开发者，特别是[easytarget](https://github.com/easytarget)提供的出色基础代码。
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=XCQ0607/esp32-cam-webserver-HAN&type=Date)](https://www.star-history.com/#XCQ0607/esp32-cam-webserver-HAN&Date)
